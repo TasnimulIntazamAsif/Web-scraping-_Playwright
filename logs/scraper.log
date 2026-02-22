@@ -1,0 +1,38 @@
+2026-02-22 10:00:15,242 - INFO - Opening homepage: https://www.bbc.com/bengali
+2026-02-22 10:01:11,933 - INFO - Opening homepage: https://www.bbc.com/bengali
+2026-02-22 12:29:10,382 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-22 12:29:19,063 - INFO - ==================================================
+2026-02-22 12:29:19,063 - INFO - Starting News Scraper
+2026-02-22 12:35:04,034 - INFO - Skipped article (no content): https://www.bbc.com/bengali/topics/c8y94k95v52t
+2026-02-22 12:36:01,267 - ERROR - Image download failed: https://ichef.bbci.co.uk/ace/ws/400/cpsprodpb/CA0A/production/_106822715_gettyimages-541284296.jpg.webp | HTTPSConnectionPool(host='ichef.bbci.co.uk', port=443): Read timed out. (read timeout=10)
+2026-02-22 12:36:01,267 - ERROR - Image download failed: https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/f5a0/live/0351c890-0f14-11f1-8eb7-a5e3a5f2128a.jpg.webp | HTTPSConnectionPool(host='ichef.bbci.co.uk', port=443): Read timed out. (read timeout=10)
+2026-02-22 13:03:49,410 - ERROR - Error scraping https://www.bbc.com/bengali/topics/c907347rezkt: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/topics/c907347rezkt
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c907347rezkt", waiting until "load"
+
+2026-02-22 13:03:49,498 - ERROR - Error scraping https://www.bbc.com/bengali/institutional-37289766: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/institutional-37289766
+Call log:
+  - navigating to "https://www.bbc.com/bengali/institutional-37289766", waiting until "load"
+
+2026-02-22 13:03:49,507 - ERROR - Error scraping https://www.bbc.com/bengali/topics/c8y94k95v52t: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/topics/c8y94k95v52t
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c8y94k95v52t", waiting until "load"
+
+2026-02-22 13:03:49,516 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cx2gx4jr44do: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/articles/cx2gx4jr44do
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cx2gx4jr44do", waiting until "load"
+
+2026-02-22 13:03:49,523 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cly283z4x23o: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/articles/cly283z4x23o
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cly283z4x23o", waiting until "load"
+
+2026-02-22 13:03:49,531 - ERROR - Error scraping https://www.bbc.com/bengali/topics/c98e63e8jn7t: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/topics/c98e63e8jn7t
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c98e63e8jn7t", waiting until "load"
+
+2026-02-22 13:03:49,539 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cde42n53j95o: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/articles/cde42n53j95o
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cde42n53j95o", waiting until "load"
+
