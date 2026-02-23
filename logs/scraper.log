@@ -36,3 +36,418 @@ Call log:
 Call log:
   - navigating to "https://www.bbc.com/bengali/articles/cde42n53j95o", waiting until "load"
 
+2026-02-23 13:01:19,878 - ERROR - https://www.bbc.com/bengali/topics/c8y94k95v52t - Timeout 30000ms exceeded.
+2026-02-23 13:14:59,165 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-23 13:19:23,701 - ERROR - https://www.bbc.com/bengali/articles/cly283z4x23o - Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/articles/cly283z4x23o
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cly283z4x23o", waiting until "load"
+
+2026-02-23 13:19:23,861 - ERROR - https://www.bbc.com/bengali/articles/c07xlr5m7jno - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c07xlr5m7jno" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c07xlr5m7jno", waiting until "load"
+
+2026-02-23 13:19:24,004 - ERROR - https://www.bbc.com/bengali/articles/czx4yex9klxo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/czx4yex9klxo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c07xlr5m7jno"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/czx4yex9klxo", waiting until "load"
+
+2026-02-23 13:19:24,222 - ERROR - https://www.bbc.com/bengali/articles/cyv9eylvl46o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cyv9eylvl46o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/czx4yex9klxo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cyv9eylvl46o", waiting until "load"
+
+2026-02-23 13:19:24,418 - ERROR - https://www.bbc.com/bengali/articles/cy7jgrzgpdxo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cy7jgrzgpdxo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cyv9eylvl46o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cy7jgrzgpdxo", waiting until "load"
+
+2026-02-23 13:19:24,568 - ERROR - https://www.bbc.com/bengali/topics/cdr56g57y01t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cdr56g57y01t" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cy7jgrzgpdxo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cdr56g57y01t", waiting until "load"
+
+2026-02-23 13:19:24,699 - ERROR - https://www.bbc.com/bengali/articles/c5ydp0kmy2yo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c5ydp0kmy2yo" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cdr56g57y01t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c5ydp0kmy2yo", waiting until "load"
+
+2026-02-23 13:19:24,803 - ERROR - https://www.bbc.com/bengali/articles/czr0ngk2n7lo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/czr0ngk2n7lo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c5ydp0kmy2yo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/czr0ngk2n7lo", waiting until "load"
+
+2026-02-23 13:19:24,965 - ERROR - https://www.bbc.com/bengali/articles/c20z4r9xdqxo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c20z4r9xdqxo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/czr0ngk2n7lo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c20z4r9xdqxo", waiting until "load"
+
+2026-02-23 13:19:25,082 - ERROR - https://www.bbc.com/bengali/live/cy8gkk220zdt - Page.goto: Navigation to "https://www.bbc.com/bengali/live/cy8gkk220zdt" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c20z4r9xdqxo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/live/cy8gkk220zdt", waiting until "load"
+
+2026-02-23 13:19:25,169 - ERROR - https://www.bbc.com/bengali/articles/cpv7e30y32eo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cpv7e30y32eo" is interrupted by another navigation to "https://www.bbc.com/bengali/live/cy8gkk220zdt"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cpv7e30y32eo", waiting until "load"
+
+2026-02-23 13:19:25,283 - ERROR - https://www.bbc.com/bengali/institutional-37289764 - Page.goto: Navigation to "https://www.bbc.com/bengali/institutional-37289764" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cpv7e30y32eo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/institutional-37289764", waiting until "load"
+
+2026-02-23 13:19:25,373 - ERROR - https://www.bbc.com/bengali - Page.goto: Navigation to "https://www.bbc.com/bengali" is interrupted by another navigation to "https://www.bbc.com/bengali/institutional-37289764"
+Call log:
+  - navigating to "https://www.bbc.com/bengali", waiting until "load"
+
+2026-02-23 13:19:25,485 - ERROR - https://www.bbc.com/bengali/topics/c8y94k95v52t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t" is interrupted by another navigation to "https://www.bbc.com/bengali"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c8y94k95v52t", waiting until "load"
+
+2026-02-23 13:19:25,580 - ERROR - https://www.bbc.com/bengali/articles/c0q3g3xj948o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c0q3g3xj948o" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c0q3g3xj948o", waiting until "load"
+
+2026-02-23 13:19:25,734 - ERROR - https://www.bbc.com/bengali/topics/cjgn7233zk5t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cjgn7233zk5t" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c0q3g3xj948o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cjgn7233zk5t", waiting until "load"
+
+2026-02-23 13:19:25,832 - ERROR - https://www.bbc.com/bengali/topics/cxy7jg418e7t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cxy7jg418e7t" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cjgn7233zk5t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cxy7jg418e7t", waiting until "load"
+
+2026-02-23 13:19:25,945 - ERROR - https://www.bbc.com/bengali/articles/c1jkx1kywpko - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c1jkx1kywpko" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cxy7jg418e7t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c1jkx1kywpko", waiting until "load"
+
+2026-02-23 14:05:00,342 - INFO - HTTP Request: HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-02-23 14:05:00,746 - INFO - HTTP Request: HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-02-23 14:05:01,013 - INFO - HTTP Request: GET https://huggingface.co/api/models/bert-base-multilingual-cased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-02-23 14:05:01,359 - INFO - HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-multilingual-cased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-02-23 14:05:01,659 - INFO - HTTP Request: GET https://huggingface.co/api/models/bert-base-multilingual-cased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-02-23 14:05:01,918 - INFO - HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-multilingual-cased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-02-23 14:05:02,890 - INFO - HTTP Request: GET https://huggingface.co/api/models/bert-base-multilingual-cased "HTTP/1.1 307 Temporary Redirect"
+2026-02-23 14:05:03,647 - INFO - HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-multilingual-cased "HTTP/1.1 200 OK"
+2026-02-23 14:05:04,358 - INFO - HTTP Request: HEAD https://huggingface.co/bert-base-multilingual-cased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-02-23 14:09:37,148 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cy7jgrzgpdxo: Timeout 30000ms exceeded.
+2026-02-23 14:10:25,846 - ERROR - Error scraping https://www.bbc.com/bengali/topics/cg7265yyxn1t: Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/topics/cg7265yyxn1t
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cg7265yyxn1t", waiting until "load"
+
+2026-02-23 14:10:26,864 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c86y1p3qqjzo: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c86y1p3qqjzo" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c86y1p3qqjzo", waiting until "load"
+
+2026-02-23 14:10:27,746 - ERROR - Error scraping https://www.bbc.com/editorialguidelines/guidance/links-and-feeds: Page.goto: Navigation to "https://www.bbc.com/editorialguidelines/guidance/links-and-feeds" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c86y1p3qqjzo"
+Call log:
+  - navigating to "https://www.bbc.com/editorialguidelines/guidance/links-and-feeds", waiting until "load"
+
+2026-02-23 14:10:28,359 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cz6eg9099p4o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cz6eg9099p4o" is interrupted by another navigation to "https://www.bbc.com/editorialguidelines/guidance/links-and-feeds"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cz6eg9099p4o", waiting until "load"
+
+2026-02-23 14:10:29,545 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cgqg33kyl72o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cgqg33kyl72o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cz6eg9099p4o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cgqg33kyl72o", waiting until "load"
+
+2026-02-23 14:10:29,681 - ERROR - Error scraping https://www.bbc.com/bengali/topics/cqywj91rkg6t: Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cqywj91rkg6t" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cgqg33kyl72o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cqywj91rkg6t", waiting until "load"
+
+2026-02-23 14:10:30,969 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c1jkx1kywpko: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c1jkx1kywpko" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cqywj91rkg6t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c1jkx1kywpko", waiting until "load"
+
+2026-02-23 14:10:32,998 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cpv7e30y32eo: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cpv7e30y32eo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c1jkx1kywpko"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cpv7e30y32eo", waiting until "load"
+
+2026-02-23 14:10:33,358 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c0r4djeklvro: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c0r4djeklvro" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cpv7e30y32eo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c0r4djeklvro", waiting until "load"
+
+2026-02-23 14:10:33,943 - ERROR - Error scraping https://www.bbc.com/bengali/institutional-37289190: Page.goto: Navigation to "https://www.bbc.com/bengali/institutional-37289190" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c0r4djeklvro"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/institutional-37289190", waiting until "load"
+
+2026-02-23 14:10:34,629 - ERROR - Error scraping https://www.bbc.com/bengali/topics/c907347rezkt: Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c907347rezkt" is interrupted by another navigation to "https://www.bbc.com/bengali/institutional-37289190"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c907347rezkt", waiting until "load"
+
+2026-02-23 14:10:34,960 - ERROR - Error scraping https://www.bbc.com/bengali/institutional-37289764: Page.goto: Navigation to "https://www.bbc.com/bengali/institutional-37289764" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c907347rezkt"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/institutional-37289764", waiting until "load"
+
+2026-02-23 14:10:35,117 - ERROR - Error scraping https://www.bbc.com/bengali/institutional-37289766: Page.goto: Navigation to "https://www.bbc.com/bengali/institutional-37289766" is interrupted by another navigation to "https://www.bbc.com/bengali/institutional-37289764"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/institutional-37289766", waiting until "load"
+
+2026-02-23 14:10:37,151 - ERROR - Error scraping https://www.bbc.com/usingthebbc/cookies/: Page.goto: Navigation to "https://www.bbc.com/usingthebbc/cookies/" is interrupted by another navigation to "https://www.bbc.com/bengali/institutional-37289766"
+Call log:
+  - navigating to "https://www.bbc.com/usingthebbc/cookies/", waiting until "load"
+
+2026-02-23 14:10:37,669 - ERROR - Error scraping https://www.bbc.com/bengali: Page.goto: Navigation to "https://www.bbc.com/bengali" is interrupted by another navigation to "https://www.bbc.com/usingthebbc/cookies/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali", waiting until "load"
+
+2026-02-23 14:10:37,882 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c620x6zzlv4o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c620x6zzlv4o" is interrupted by another navigation to "https://www.bbc.com/bengali"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c620x6zzlv4o", waiting until "load"
+
+2026-02-23 14:10:38,072 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c5ygen59j15o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c5ygen59j15o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c620x6zzlv4o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c5ygen59j15o", waiting until "load"
+
+2026-02-23 14:10:38,299 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cvgjr1zjje4o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cvgjr1zjje4o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c5ygen59j15o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cvgjr1zjje4o", waiting until "load"
+
+2026-02-23 14:10:38,513 - ERROR - Error scraping https://www.bbc.com/bengali/topics/c2dwq2nd40xt: Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cvgjr1zjje4o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt", waiting until "load"
+
+2026-02-23 14:10:38,658 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c33j5kzr7j5o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o", waiting until "load"
+
+2026-02-23 14:10:38,770 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cde42n53j95o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cde42n53j95o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cde42n53j95o", waiting until "load"
+
+2026-02-23 14:10:38,853 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c0q3g3xj948o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c0q3g3xj948o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cde42n53j95o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c0q3g3xj948o", waiting until "load"
+
+2026-02-23 14:10:39,507 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cqj9vw70edpo: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cqj9vw70edpo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c0q3g3xj948o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cqj9vw70edpo", waiting until "load"
+
+2026-02-23 14:10:39,915 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cnv6m25qygzo: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cnv6m25qygzo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cqj9vw70edpo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cnv6m25qygzo", waiting until "load"
+
+2026-02-23 14:10:40,403 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c178wq8ly4ro: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c178wq8ly4ro" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cnv6m25qygzo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c178wq8ly4ro", waiting until "load"
+
+2026-02-23 14:10:40,815 - ERROR - Error scraping https://www.bbc.com/bengali#content: Page.goto: Navigation to "https://www.bbc.com/bengali#content" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c178wq8ly4ro"
+Call log:
+  - navigating to "https://www.bbc.com/bengali#content", waiting until "load"
+
+2026-02-23 14:10:41,006 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cx2gx4jr44do: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cx2gx4jr44do" is interrupted by another navigation to "https://www.bbc.com/bengali#content"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cx2gx4jr44do", waiting until "load"
+
+2026-02-23 14:10:41,118 - ERROR - Error scraping https://www.bbc.com/bengali/topics/c8y94k95v52t: Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cx2gx4jr44do"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c8y94k95v52t", waiting until "load"
+
+2026-02-23 14:10:41,249 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cly283z4x23o: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cly283z4x23o" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cly283z4x23o", waiting until "load"
+
+2026-02-23 14:10:41,362 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c3ew403yxnwo: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c3ew403yxnwo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cly283z4x23o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c3ew403yxnwo", waiting until "load"
+
+2026-02-23 14:10:41,465 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c07xlr5m7jno: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c07xlr5m7jno" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c3ew403yxnwo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c07xlr5m7jno", waiting until "load"
+
+2026-02-23 14:10:41,555 - ERROR - Error scraping https://www.bbc.com/bengali/topics/cdr56gv542vt: Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cdr56gv542vt" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c07xlr5m7jno"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cdr56gv542vt", waiting until "load"
+
+2026-02-23 14:10:42,001 - ERROR - Error scraping https://www.bbc.com/bengali/articles/c3g54741n7xo: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c3g54741n7xo" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cdr56gv542vt"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c3g54741n7xo", waiting until "load"
+
+2026-02-23 14:10:42,107 - ERROR - Error scraping https://www.bbc.com/bengali/articles/cde4dn8rn3ko: Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cde4dn8rn3ko" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c3g54741n7xo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cde4dn8rn3ko", waiting until "load"
+
+2026-02-23 14:20:15,446 - ERROR - https://www.bbc.com/bengali/articles/czr0ngk2n7lo - Timeout 30000ms exceeded.
+2026-02-23 14:39:28,410 - ERROR - https://www.bbc.com/ws/languages - Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bbc.com/ws/languages
+Call log:
+  - navigating to "https://www.bbc.com/ws/languages", waiting until "load"
+
+2026-02-23 14:39:28,580 - ERROR - https://www.bbc.com/bengali/topics/cdr56g57y01t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cdr56g57y01t" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cdr56g57y01t", waiting until "load"
+
+2026-02-23 14:39:28,694 - ERROR - https://www.bbc.com/bengali/topics/c8y94k95v52t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cdr56g57y01t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c8y94k95v52t", waiting until "load"
+
+2026-02-23 14:39:28,957 - ERROR - https://www.bbc.com/usingthebbc/cookies/ - Page.goto: Navigation to "https://www.bbc.com/usingthebbc/cookies/" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t"
+Call log:
+  - navigating to "https://www.bbc.com/usingthebbc/cookies/", waiting until "load"
+
+2026-02-23 14:39:29,080 - ERROR - https://www.bbc.com/bengali/articles/cnv6m25qygzo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cnv6m25qygzo" is interrupted by another navigation to "https://www.bbc.com/usingthebbc/cookies/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cnv6m25qygzo", waiting until "load"
+
+2026-02-23 14:39:29,435 - ERROR - https://www.bbc.com/bengali/live/cy8gkk220zdt - Page.goto: Navigation to "https://www.bbc.com/bengali/live/cy8gkk220zdt" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cnv6m25qygzo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/live/cy8gkk220zdt", waiting until "load"
+
+2026-02-23 14:39:29,568 - ERROR - https://www.bbc.com/bengali/articles/cde4k8egpelo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cde4k8egpelo" is interrupted by another navigation to "https://www.bbc.com/bengali/live/cy8gkk220zdt"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cde4k8egpelo", waiting until "load"
+
+2026-02-23 14:39:29,685 - ERROR - https://www.bbc.com/bengali/articles/cvgj1x4zd9yo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cvgj1x4zd9yo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cde4k8egpelo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cvgj1x4zd9yo", waiting until "load"
+
+2026-02-23 14:39:29,897 - ERROR - https://www.bbc.com/bengali/articles/c3g54741n7xo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c3g54741n7xo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cvgj1x4zd9yo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c3g54741n7xo", waiting until "load"
+
+2026-02-23 14:39:30,294 - ERROR - https://www.bbc.com/bengali/topics/c2dwq2nd40xt - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c3g54741n7xo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt", waiting until "load"
+
+2026-02-23 14:39:30,581 - ERROR - https://www.bbc.com/bengali/articles/cx24exdx942o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cx24exdx942o" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cx24exdx942o", waiting until "load"
+
+2026-02-23 14:53:22,360 - ERROR - https://www.bbc.com/bengali/topics/cxy7jg418e7t - Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/topics/cxy7jg418e7t
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cxy7jg418e7t", waiting until "load"
+
+2026-02-23 14:53:22,481 - ERROR - https://www.bbc.com/bengali/articles/c3g54741n7xo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c3g54741n7xo" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c3g54741n7xo", waiting until "load"
+
+2026-02-23 14:53:22,578 - ERROR - https://www.bbc.com/bengali/articles/cx2gx4jr44do - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cx2gx4jr44do" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c3g54741n7xo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cx2gx4jr44do", waiting until "load"
+
+2026-02-23 14:53:22,694 - ERROR - https://www.bbc.com/bengali/articles/c33j5kzr7j5o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cx2gx4jr44do"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o", waiting until "load"
+
+2026-02-23 14:53:22,893 - ERROR - https://www.bbc.com/bengali/articles/cly283z4x23o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cly283z4x23o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cly283z4x23o", waiting until "load"
+
+2026-02-23 14:53:22,977 - ERROR - https://www.bbc.com/bengali/articles/cy7jgrzgpdxo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cy7jgrzgpdxo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cly283z4x23o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cy7jgrzgpdxo", waiting until "load"
+
+2026-02-23 14:53:23,074 - ERROR - https://www.bbc.com/bengali/articles/cde42n53j95o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cde42n53j95o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cy7jgrzgpdxo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cde42n53j95o", waiting until "load"
+
+2026-02-23 14:53:23,139 - ERROR - https://www.bbc.com/bengali/articles/c0r4djeklvro - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c0r4djeklvro" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cde42n53j95o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c0r4djeklvro", waiting until "load"
+
+2026-02-23 14:53:23,252 - ERROR - https://www.bbc.com/bengali/articles/c07xlr5m7jno - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c07xlr5m7jno" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c0r4djeklvro"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c07xlr5m7jno", waiting until "load"
+
+2026-02-23 14:53:23,346 - ERROR - https://www.bbc.com/bengali/articles/cwykrl690zko - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cwykrl690zko" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c07xlr5m7jno"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cwykrl690zko", waiting until "load"
+
+2026-02-23 14:53:23,440 - ERROR - https://www.bbc.com/bengali/articles/ce94xd52xmzo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/ce94xd52xmzo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cwykrl690zko"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/ce94xd52xmzo", waiting until "load"
+
+2026-02-23 14:53:23,596 - ERROR - https://www.bbc.com/bengali/articles/cd9g2dlj7xgo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cd9g2dlj7xgo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/ce94xd52xmzo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cd9g2dlj7xgo", waiting until "load"
+
+2026-02-23 14:53:23,720 - ERROR - https://www.bbc.com/bengali/articles/c1jkx1kywpko - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c1jkx1kywpko" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cd9g2dlj7xgo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c1jkx1kywpko", waiting until "load"
+
+2026-02-23 14:53:23,807 - ERROR - https://www.bbc.com/ws/languages - Page.goto: Navigation to "https://www.bbc.com/ws/languages" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c1jkx1kywpko"
+Call log:
+  - navigating to "https://www.bbc.com/ws/languages", waiting until "load"
+
+2026-02-23 14:53:23,924 - ERROR - https://www.bbc.com/bengali - Page.goto: Navigation to "https://www.bbc.com/bengali" is interrupted by another navigation to "https://www.bbc.com/ws/languages"
+Call log:
+  - navigating to "https://www.bbc.com/bengali", waiting until "load"
+
+2026-02-23 14:53:23,936 - ERROR - https://www.bbc.com/bengali#content - Page.goto: Navigation to "https://www.bbc.com/bengali#content" is interrupted by another navigation to "https://www.bbc.com/bengali"
+Call log:
+  - navigating to "https://www.bbc.com/bengali#content", waiting until "load"
+
+2026-02-23 14:53:24,017 - ERROR - https://www.bbc.com/bengali/articles/c20z4r9xdqxo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c20z4r9xdqxo" is interrupted by another navigation to "https://www.bbc.com/bengali#content"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c20z4r9xdqxo", waiting until "load"
+
+2026-02-23 14:53:24,125 - ERROR - https://www.bbc.com/bengali/articles/cyv9eylvl46o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cyv9eylvl46o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c20z4r9xdqxo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cyv9eylvl46o", waiting until "load"
+
+2026-02-23 14:53:24,213 - ERROR - https://www.bbc.com/bengali/articles/cz6eg9099p4o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cz6eg9099p4o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cyv9eylvl46o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cz6eg9099p4o", waiting until "load"
+
+2026-02-23 14:53:24,470 - ERROR - https://www.bbc.com/bengali/news-44111398 - Page.goto: Navigation to "https://www.bbc.com/bengali/news-44111398" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cz6eg9099p4o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/news-44111398", waiting until "load"
+
+2026-02-23 14:53:24,556 - ERROR - https://www.bbc.com/bengali/articles/cpv7e30y32eo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cpv7e30y32eo" is interrupted by another navigation to "https://www.bbc.com/bengali/news-44111398"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cpv7e30y32eo", waiting until "load"
+
+2026-02-23 14:53:24,688 - ERROR - https://www.bbc.com/bengali/articles/c4g5e0241n3o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c4g5e0241n3o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cpv7e30y32eo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c4g5e0241n3o", waiting until "load"
+
+2026-02-23 14:53:24,842 - ERROR - https://www.bbc.com/bengali/articles/cqj9vw70edpo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cqj9vw70edpo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c4g5e0241n3o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cqj9vw70edpo", waiting until "load"
+
+2026-02-23 14:53:24,941 - ERROR - https://www.bbc.com/bengali/topics/c8y94k95v52t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cqj9vw70edpo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c8y94k95v52t", waiting until "load"
+
+2026-02-23 14:53:25,205 - ERROR - https://www.bbc.com/bengali/topics/c98e63e8jn7t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c98e63e8jn7t" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c8y94k95v52t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c98e63e8jn7t", waiting until "load"
+
+2026-02-23 14:53:25,403 - ERROR - https://www.bbc.com/bengali/articles/c178wq8ly4ro - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c178wq8ly4ro" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/c98e63e8jn7t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c178wq8ly4ro", waiting until "load"
+
+2026-02-23 14:53:25,509 - ERROR - https://www.bbc.com/bengali/topics/c2dwq2nd40xt - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c178wq8ly4ro"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c2dwq2nd40xt", waiting until "load"
+
+2026-02-23 15:16:01,164 - ERROR - https://www.bbc.com/bengali/topics/c907347rezkt - Page.goto: net::ERR_FAILED at https://www.bbc.com/bengali/topics/c907347rezkt
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/c907347rezkt", waiting until "load"
+
+2026-02-23 15:16:01,257 - ERROR - https://www.bbc.com/bengali/live/c0j540q11w8t - Page.goto: Navigation to "https://www.bbc.com/bengali/live/c0j540q11w8t" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/live/c0j540q11w8t", waiting until "load"
+
+2026-02-23 15:16:01,390 - ERROR - https://www.bbc.com/bengali/articles/c3ew403yxnwo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c3ew403yxnwo" is interrupted by another navigation to "https://www.bbc.com/bengali/live/c0j540q11w8t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c3ew403yxnwo", waiting until "load"
+
+2026-02-23 15:16:01,594 - ERROR - https://www.bbc.com/bengali/articles/c33j5kzr7j5o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c3ew403yxnwo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o", waiting until "load"
+
+2026-02-23 15:16:01,704 - ERROR - https://www.bbc.com/bengali/articles/czr0ngk2n7lo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/czr0ngk2n7lo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c33j5kzr7j5o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/czr0ngk2n7lo", waiting until "load"
+
+2026-02-23 15:16:01,866 - ERROR - https://www.bbc.com/bengali/articles/c3rzpe833yyo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c3rzpe833yyo" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/czr0ngk2n7lo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c3rzpe833yyo", waiting until "load"
+
+2026-02-23 15:16:02,480 - ERROR - https://www.bbc.com/bengali/topics/cjgn7233zk5t - Page.goto: Navigation to "https://www.bbc.com/bengali/topics/cjgn7233zk5t" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c3rzpe833yyo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/topics/cjgn7233zk5t", waiting until "load"
+
+2026-02-23 15:16:02,601 - ERROR - https://www.bbc.com/bengali/articles/c5ydp0kmy2yo - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/c5ydp0kmy2yo" is interrupted by another navigation to "https://www.bbc.com/bengali/topics/cjgn7233zk5t"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/c5ydp0kmy2yo", waiting until "load"
+
+2026-02-23 15:16:02,712 - ERROR - https://www.bbc.com/bengali/articles/cly283z4x23o - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cly283z4x23o" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/c5ydp0kmy2yo"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cly283z4x23o", waiting until "load"
+
+2026-02-23 15:16:02,915 - ERROR - https://www.bbc.com/bengali/articles/cpv8k14973no - Page.goto: Navigation to "https://www.bbc.com/bengali/articles/cpv8k14973no" is interrupted by another navigation to "https://www.bbc.com/bengali/articles/cly283z4x23o"
+Call log:
+  - navigating to "https://www.bbc.com/bengali/articles/cpv8k14973no", waiting until "load"
+

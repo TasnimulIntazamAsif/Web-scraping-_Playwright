@@ -1,2 +1,9 @@
 playwright
 pandas
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+playwright
+wordcloud
